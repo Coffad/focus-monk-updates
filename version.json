@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "downloadSize": "10.2 MB",
+  "releaseDate": "2025-04-25",
+  "whatsNew": [
+    "Initial release of Focus Monk",
+    "Beautiful meditation timer",
+    "Focus tracking features",
+    "Dark mode support"
+  ],
+  "minSupportedVersion": "1.0.0",
+  "forceUpdate": false
+}
