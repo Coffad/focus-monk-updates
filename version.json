@@ -1,12 +1,11 @@
 {
-  "version": "1.0.1",
-  "releaseDate": "2025-04-25",
+  "version": "1.0.2",
+  "releaseDate": "2025-04-26",
   "whatsNew": [
-    "Enhanced focus timer with beautiful animations",
-    "New meditation sounds for better concentration",
-    "Improved dark mode experience",
-    "Fixed notification issues",
-    "Performance improvements"
+    "Enhanced UI ✨🎨",
+    "Bug Fixed 🔧✅",
+    "Improved dark mode experience 🖤🌌",
+    "Performance improvements ⚡📈"
   ],
   "minSupportedVersion": "1.0.0",
   "forceUpdate": false
