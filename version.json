@@ -1,11 +1,10 @@
 {
-  "version": "1.0.4",
-  "releaseDate": "2025-04-26",
+  "version": "1.1.0",
+  "releaseDate": "2025-05-02",
   "whatsNew": [
-    "Enhanced UI ✨🎨",
-    "Bug Fixed 🔧✅",
-    "Improved dark mode experience 🖤🌌",
-    "Performance improvements ⚡📈"
+    "🔧 Improved User Experience – Smoother performance for a seamless experience.",
+    "🐛 Bug & Lag Fixes – Stability improved, interruptions reduced.",
+    "🎨 New Onboarding Screen – Clean, modern, and visually appealing"
   ],
   "minSupportedVersion": "1.0.0",
   "forceUpdate": false
